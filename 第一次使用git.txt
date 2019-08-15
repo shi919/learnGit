@@ -11,9 +11,9 @@
 	通该指令讲目录下的所有文件添加到本地仓库
 	(使用git status查看当前的状态)
 	3.git commit -m "描述你做了什么"
-	讲项目提交到仓库
+	将项目提交到仓库
 	4.git remote add origin (url)
-	将本地的仓库关联到github上	
+	将本地的仓库关联到github上(关联一次即可?)	
 	5.git pull origin master
 	合并分支
 	6.git push -u origin master
